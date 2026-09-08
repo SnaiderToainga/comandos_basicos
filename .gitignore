@@ -1,4 +1,10 @@
 .vscode/
+.DS_Store
 .env
 *.log
 indicaciones.info
+node_modules/
+Thumbs.db
+dist/
+build/
+
